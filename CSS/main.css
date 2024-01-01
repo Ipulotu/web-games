@@ -1,0 +1,11 @@
+
+html{
+    background-color:cadetblue
+}
+
+
+.games-contaner{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
